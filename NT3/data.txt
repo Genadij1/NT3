@@ -1,0 +1,30 @@
+Name: ridcr	|Type: fd	|Width: 56	|Length: 5767	|Max depth: 76
+
+Name: dfg	|Type: fg	|Width: 5768	|Length: 67	|Max depth: 576
+
+Name: Dnipro	|Type: River	|Width: 1234	|Length: 23	|Max depth: 12
+
+Name: 56	|Type: 45	|Width: 345	|Length: 456	|Max depth: 45
+
+Name: Dnipro	|Type: River	|Width: 123	|Length: 12345	|Max depth: 12
+
+Name: Buh	|Type: River	|Width: 1234	|Length: 234	|Max depth: 12
+
+Name: Dnipr	|Type: river	|Width: 134	|Length: 234	|Max depth: 35
+
+Name: Buh	|Type: 123	|Width: 12	|Length: 43	|Max depth: 4565
+
+Name: Dniro	|Type: River	|Width: 1234	|Length: 123	|Max depth: 123
+
+Name: River	|Type: River	|Width: 234	|Length: 234	|Max depth: 234
+
+Name: dnipro	|Type: river	|Width: 1234	|Length: 1234	|Max depth: 1234
+
+Name: Dnipr	|Type: River	|Width: 1234	|Length: 1234	|Max depth: 123
+
+Name: Dnipro	|Type: River	|Width: 1234	|Length: 1234	|Max depth: 1234
+
+Name: Buh	|Type: River	|Width: 1234	|Length: 1234	|Max depth: 1234
+
+Name: Dnipro	|Type: River	|Width: 1234	|Length: 1234	|Max depth: 1234
+
